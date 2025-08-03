@@ -1,0 +1,5 @@
+{
+	"name": "hello",
+	"trigger": "http",
+	"path": "plugins/hello.exe"
+}
